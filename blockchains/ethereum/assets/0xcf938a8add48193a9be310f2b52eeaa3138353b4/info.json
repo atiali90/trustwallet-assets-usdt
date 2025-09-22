@@ -1,0 +1,10 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "ethereum/0xcf938a8add48193a9be310f2b52eeaa3138353b4",
+  "links": {
+    "github": "https://github.com/atiali90"
+  }
+}
